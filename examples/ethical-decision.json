@@ -1,0 +1,5 @@
+{
+  "tensor": "T_Ethical_Decision_Tensor",
+  "input": {"type": "scenario", "content": "患者が宗教的理由で輸血を拒否している場合"},
+  "operation": "evaluate"
+}

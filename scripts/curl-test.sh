@@ -1,0 +1,1 @@
+curl -X POST https://api.ku-os.org/v1/tensor/evaluate -H 'Content-Type: application/json' -d @examples/ethical-decision.json
